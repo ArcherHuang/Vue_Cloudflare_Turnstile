@@ -1,0 +1,6 @@
+.DS_Store
+config.ini
+node_modules/
+.DS_store
+.vscode
+.env
