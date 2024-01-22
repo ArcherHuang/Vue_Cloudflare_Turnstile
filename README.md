@@ -16,8 +16,9 @@
 ## Backend
 * 1. 安裝 Node v18.17.0
 * 2. cd Vue_Cloudflare_Turnstile/API
-* 3. node index.js 
-* 4. API
+* 3. npm i
+* 4. node index.js 
+* 5. API
   * URI
     * POST http://localhost:3000/signin
   * Body
